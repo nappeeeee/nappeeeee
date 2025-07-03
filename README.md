@@ -6,7 +6,7 @@
 <h3 align="center">A frontend developer from Universitas Muhammadiyah Purwokerto, focused on crafting beautiful and responsive web interfaces.</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/NCBr4v8.jpeg" alt="evan" width="150" style="border-radius:50%" />
+  <img src="https://i.imgur.com/0YANzm4.png" alt="evan" width="150" style="border-radius:50%" />
 </p>
 
 ---
