@@ -25,19 +25,12 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <a href="mailto:safievan4@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="30" style="margin: 0 10px;" />
-  </a>
-  <a href="https://instagram.com/nave0.7" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" style="margin: 0 10px;" />
-  </a>
-  <a href="https://github.com/Safevan" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" style="margin: 0 10px;" />
-  </a>
-  <a href="https://discord.com/users/619514219880251392" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="30" style="margin: 0 10px;" />
-  </a>
+  📧 <a href="mailto:safievan4@gmail.com" style="text-decoration: none; color: inherit;">safievan4@gmail.com</a> <br/>
+  📷 <a href="https://instagram.com/nave0.7" target="_blank" style="text-decoration: none; color: inherit;">@nave0.7</a> <br/>
+  🐱 <a href="https://github.com/Safevan" target="_blank" style="text-decoration: none; color: inherit;">Safevan</a> <br/>
+  💬 <a href="https://discord.com/users/619514219880251392" target="_blank" style="text-decoration: none; color: inherit;">nave0.7</a>
 </p>
+
 
 
 
