@@ -25,13 +25,21 @@
 ### 📬 Contact Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Email-safievan4@gmail.com-FF69B4?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:safievan4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-safievan4@gmail.com-FF69B4?style=flat&logo=gmail&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Instagram-@nave0.7-FF69B4?style=flat&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/nave0.7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@nave0.7-FF69B4?style=flat&logo=instagram&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-Safevan-FF69B4?style=flat&logo=github&logoColor=white" />
+  <a href="https://github.com/Safevan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Safevan-FF69B4?style=flat&logo=github&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Discord-@nave0.7-FF69B4?style=flat&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/619514219880251392" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-@nave0.7-FF69B4?style=flat&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
