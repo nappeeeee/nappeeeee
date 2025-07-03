@@ -25,11 +25,12 @@
 ### 📬 Contact Me
 
 <p align="center">
-  ✉️ <a href="mailto:safievan4@gmail.com" style="text-decoration: none; color: inherit;">Email</a> <br/>
-  📸 <a href="https://instagram.com/nave0.7" target="_blank" style="text-decoration: none; color: inherit;">Instagram</a> <br/>
-  🐙 <a href="https://github.com/Safevan" target="_blank" style="text-decoration: none; color: inherit;">GitHub</a> <br/>
-  💬 <a href="https://discord.com/users/619514219880251392" target="_blank" style="text-decoration: none; color: inherit;">Discord</a>
+  <a href="mailto:safievan4@gmail.com" target="_blank" style="text-decoration: none; color: inherit; margin: 0 20px;">✉️ Email</a>
+  <a href="https://instagram.com/nave0.7" target="_blank" style="text-decoration: none; color: inherit; margin: 0 20px;">📸 Instagram</a>
+  <a href="https://github.com/Safevan" target="_blank" style="text-decoration: none; color: inherit; margin: 0 20px;">🐙 GitHub</a>
+  <a href="https://discord.com/users/619514219880251392" target="_blank" style="text-decoration: none; color: inherit; margin: 0 20px;">💬 Discord</a>
 </p>
+
 
 ---
 
